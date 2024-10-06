@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ### 📫 Drop a Message On
 
 <p align="left">
